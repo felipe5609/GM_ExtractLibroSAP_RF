@@ -1,0 +1,1 @@
+del D:\BOTS\*.xlsx
